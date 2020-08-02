@@ -23,9 +23,10 @@ website: blog.naver.com/gnsehfvlr
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  □ 경력 
+   - 2018 ~ 현재 : 안랩(AhnLab)[안철수 안티바이러스연구소] - 분석연구팀(전문연구요원)
+   - 2015 ~ 2018 : 전남대학교 시스템보안연구센터 - 취약점 분석 연구
+   - 2014 ~ 2015 : 안랩(AhnLab)[안철수 안티바이러스연구소] - Network QA
 
 # Projects Section
 # projects_title: Projects
