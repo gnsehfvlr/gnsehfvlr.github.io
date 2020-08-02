@@ -3,21 +3,20 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 이영훈
+title: 정보보안 개발/분석가
+email: gnsehfvlr@naver.com
+website: blog.naver.com/gnsehfvlr
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: gnsehfvlr
+github_username:  gnsehfvlr
 # dribbble_username: jekyll
-# facebook_username: jekyll
+# facebook_username: gnsehfvlr
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: gnsehfvlr
+linkedin_username: gnsehfvlr
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
