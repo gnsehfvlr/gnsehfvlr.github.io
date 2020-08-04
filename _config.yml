@@ -3,10 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: 이영훈
-title: 정보보안 개발/분석가
-email: gnsehfvlr@naver.com
-website: blog.naver.com/gnsehfvlr
+
 
 # Social links
 # twitter_username: gnsehfvlr
@@ -23,20 +20,6 @@ website: blog.naver.com/gnsehfvlr
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  □ 경력 
-   - 2018 ~ 현재 : 안랩(AhnLab)[안철수 안티바이러스연구소] - 분석연구팀(주임 연구원)[병역특례 전문연구요원]
-   - 2016 ~ 2018 : 전남대학교 시스템보안연구센터 - 취약점 분석 연구
-   - 2014 ~ 2015 : 안랩(AhnLab)[안철수 안티바이러스연구소] - Network QA
-   
-  □ 학력 
-   - 2012 ~ 2016 : 전남대학교 컴퓨터정보통신공학 학사
-   - 2016 ~ 2018 : 전남대학교 정보보안협동과정 석사
-
-  □ 관심 분야
-   - 모의해킹, 악성코드 위협 분석, 취약점 분석, 데이터 사이언스, 웹 취약점 분석, 모바일 취약점 분석, 바이너리 취약점 분석, 보안 컨설팅, 버그바운티
-   
-  □ 블로그
-   - blog.naver.com/gnsehfvlr
 
 # Projects Section
 # projects_title: Projects
