@@ -36,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
    - 모의해킹, 악성코드 위협 분석, 취약점 분석, 데이터 사이언스, 웹 취약점 분석, 모바일 취약점 분석, 바이너리 취약점 분석, 보안 컨설팅, 버그바운티
    
   □ 블로그
-   - [blog.naver.com/gnsehfvlr]https://blog.naver.com/gnsehfvlr
+   - blog.naver.com/gnsehfvlr
 
 # Projects Section
 # projects_title: Projects
@@ -68,7 +68,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: gen/resume-theme
 
 sass:
   sass_dir: _sass
